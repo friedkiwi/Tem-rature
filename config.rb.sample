@@ -20,3 +20,6 @@ RELAY_PIN = 2
 
 # serial device
 SERIAL_DEVICE = "/dev/ttyUSB0"
+
+# temperature correction for the thermistor
+CORRECTION = -4
