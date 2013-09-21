@@ -13,3 +13,4 @@ Hackerish code - not suitable for internet publishing/production use.
 ## Setup
 
 Raspi -> UART -> Diavolino -> {relay, thermistor}
+Rename config.rb.sample to config.rb and fill in the gaps. Then debug until it works.
