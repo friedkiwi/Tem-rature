@@ -13,4 +13,7 @@ XIVELY_POST_URL = ""
 THERMISTOR_PIN = 0
 
 # the not so analog (digital) pin connected to the relay board
-RELAY_PIN  2
+RELAY_PIN = 2
+
+# serial device
+SERIAL_DEVICE = "/dev/ttyUSB0"
