@@ -9,6 +9,9 @@ XIVELY_API_KEY = ""
 # e.g. https://api.xively.com/v2/feeds/3141592653589/datastreams/InterestingThingToMeasure/datapoints
 XIVELY_POST_URL = ""
 
+# update interval in seconds
+XIVELY_UPDATE_INTERVAL = 5
+
 # analog pin connected to the termistor
 THERMISTOR_PIN = 0
 
