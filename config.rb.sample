@@ -1,0 +1,16 @@
+#
+#  Tempirature sample configuration
+#
+
+# xively API key
+XIVELY_API_KEY = ""
+
+# xively notification URL
+# e.g. https://api.xively.com/v2/feeds/3141592653589/datastreams/InterestingThingToMeasure/datapoints
+XIVELY_POST_URL = ""
+
+# analog pin connected to the termistor
+THERMISTOR_PIN = 0
+
+# the not so analog (digital) pin connected to the relay board
+RELAY_PIN  2
